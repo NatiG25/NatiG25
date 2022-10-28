@@ -26,7 +26,17 @@
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b6e49812-8334-4112-8d1b-b4650f89f7fa" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/9ebcced6-e940-46c8-957b-f5e527c48244" target="blank"><img src="./assets/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/3486e93c-e6bc-4ff8-a764-edb52e1f5844" target="blank"><img src="./assets/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/a489ef50-1244-43c0-93f6-90a4bb9780ba" target="blank"><img src="./assets/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/dfe3b510-abb1-405a-9260-1a5e8046ee0e" target="blank"><img src="./assets/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/255106ae-2a71-4b21-8e67-f3536de9a023" target="blank"><img src="./assets/full-stack-badge.png" width="80"></a> &nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_0.pdf" target="blank"><img src="./assets/azure-ai-fundamentals-600x600.png" width="80"></a> &nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_1.pdf" target="blank"><img src="./assets/azure-ai-engineer-600x600.png" width="80"></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/0c912494-c044-42a3-8b73-c531cea29ffa#gs.h30tbv" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> &nbsp; 
+
+<a href="https://www.credential.net/adc69a71-894e-45a0-85d3-bbbd0d980a69#gs.h30sen" target="blank"><img src="./assets/js-badge.png" width="80"></a> &nbsp; 
+
+<a href="https://www.credential.net/6ea5deac-f17c-433c-9a79-c515ff2dc91e#gs.h30s78" target="blank"><img src="./assets/react-badge.png" width="80"></a> &nbsp; 
+
+<a href="https://www.credential.net/00b5bea8-2527-43e8-826d-2276828aa33b#gs.h30r6r" target="blank"><img src="./assets/ruby-badge.png" width="80"></a> &nbsp; 
+
+<a href="https://www.credential.net/96975384-f94c-4c86-9128-388db6380b3e#gs.h30qd2" target="blank"><img src="./assets/ror-badge.png" width="80"></a> &nbsp; 
+
+<a href="https://www.credential.net/118d685d-f9e4-4d40-923f-743e5202344f#gs.h30kft" target="blank"><img src="./assets/full-stack-badge.png" width="80"></a> &nbsp; 
 
 </p>
 
