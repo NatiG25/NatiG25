@@ -2,13 +2,13 @@
 
 <h3 align="center"> I'm a software developer living in Saudi Arabia!</h3>
 
-<p align="center">I have learned software development from Microverse. I can speak in <strong>four languages</strong>(Arabic, English, Tigrina & Amharic). I spend most of my time learning different frameworks and technologies related to web development.
+<p align="center">I have learned software development from Microverse. I can speak in <strong>four languages</strong> (Arabic, English, Tigrina & Amharic). I spend most of my time learning different frameworks and technologies related to web development.
 
 <img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 
 - 👩‍💻 I’m a **Junior Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently looking to get hired as a junior backend, frontend or full stack developer.
+- 🌱 I’m currently looking to get hired as a junior back-end, front-end or full-stack developer.
 
 - 💻 All **my projects** are available [here.](https://github.com/NatiG25?tab=repositories)
 
