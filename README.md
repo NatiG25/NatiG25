@@ -1,16 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Nati+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
+<h3 align="center"> A Full Stack Developer</h3>
 
-<h3 align="center"> I'm a Full Stack developer living in Saudi Arabia!</h3>
-
-<p align="center">I have learned software development from Microverse. I can speak in <strong>four languages</strong> (Arabic, English, Tigrina & Amharic). I spend most of my time learning different frameworks and technologies related to web development.
-
-<img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
-
-- 👩‍💻 I’m a **Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
-
-- 🌱 I’m currently looking to get hired as a back-end, front-end or full-stack developer.
-
-- 💻 All **my projects** are available [here.](https://github.com/NatiG25?tab=repositories)
+- 👋 Hi, I'm Nati.
+- 💪 Trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I spend most of my time learning different frameworks and technologies related to web development.
 
 ### 🎯 Reach me on:
 
