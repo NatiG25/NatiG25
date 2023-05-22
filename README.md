@@ -1,13 +1,14 @@
 <h3 align="center"> A Full Stack Software Developer</h3>
 
 - 👋 Hi, I'm Nati.
-- 💪 Trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
-- 👩‍💻 I spend most of my time learning different frameworks and technologies related to web development.
+- 💻 Currently, working as a code reviewer at [Microverse.](https://github.com/microverseinc).
+- 💪 Passionate about collaborating on projects and building software solutions that make a difference.
+- ✈️ Looking for a Full Stack or Frontend Developer role. 
 
 ### 🎯 Reach me on:
 
-- Twitter: [@NatiG255](https://twitter.com/NatiG255)
-- Linkedin: [Nati](https://www.linkedin.com/in/natigorgis/)
+- Twitter: https://twitter.com/NatiG255
+- Linkedin: https://www.linkedin.com/in/natigorgis/
 - Email: nati.g5684@gmail.com
 
 <h2 align="left">Skills</h2>
