@@ -1,4 +1,4 @@
-<h3 align="center"> A Full Stack Developer</h3>
+<h3 align="center"> A Full Stack Software Developer</h3>
 
 - 👋 Hi, I'm Nati.
 - 💪 Trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
