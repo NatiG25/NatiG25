@@ -1,7 +1,6 @@
 <h3 align="center"> A Full Stack Software Developer</h3>
 
 - 👋 Hi, I'm Nati.
-- 💻 Currently, working as a code reviewer at [Microverse.](https://github.com/microverseinc).
 - 💪 Passionate about collaborating on projects and building software solutions that make a difference.
 - ✈️ Looking for a Full Stack or Frontend Developer role. 
 
